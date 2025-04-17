@@ -1,0 +1,59 @@
+{
+  // Place your fe workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+  "README.md": {
+    "scope": "",
+    "prefix": "readme",
+    "body": [
+      "# 项目名称",
+      "",
+      "## 项目标识",
+      "",
+      "## 项目负责人",
+      "",
+      "## 开发框架",
+      "",
+      "## 开发规范",
+      "",
+      "## 开发流程",
+      "",
+      "## 项目入口",
+      "",
+      "## 服务环境",
+      "",
+      "## 功能模块",
+      "",
+      "## 待办事项",
+      ""
+    ],
+    "description": "README.md"
+  },
+  "CHANGELOG.md": {
+    "scope": "",
+    "prefix": "changelog",
+    "body": [
+      "## 版本号 / 上线日期",
+      "* `[+]` 新增 XXX 功能",
+      "* `[-]` 移除 XXX 功能",
+      "* `[^]` 更新 XXX 功能",
+      "* `[#]` 修复 XXX 问题",
+      "## 0.1.0 / 2020-10-05",
+      "* 初始化项目"
+    ],
+    "description": "CHANGELOG.md"
+  }
+}

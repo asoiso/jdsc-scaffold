@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "name": "@jdsc/ant-design-pro",
+      "path": "./playgrounds/ant-design-pro",
+    },
+    {
+      "name": "@jdsc/strapi-app",
+      "path": "./playgrounds/strapi-app",
+    },
+    {
+      "name": "@jdsc/next-hello",
+      "path": "./playgrounds/next-hello",
+    },
+    {
+      "name": "@jdsc/nuxt-hello",
+      "path": "./playgrounds/nuxt-hello",
+    },
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 110,
+  },
+}
