@@ -4,6 +4,7 @@
 
 基于 Rush 和 PNPM 的 Monorepo 项目脚手架，集成了多个现代化的前后端框架和工具：
 
+- [Rush](https://rushjs.io/pages/intro/get_started/) - monorepo 管理工具
 - [Next.js](https://nextjs.org/) - React 框架，用于构建现代化的 Web 应用
 - [Strapi](https://strapi.io/) - Headless CMS，提供内容管理系统
 - [Ant Design Pro](https://pro.ant.design/zh-CN/) - 企业级中后台前端/设计解决方案
